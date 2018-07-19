@@ -1,0 +1,1 @@
+include ':app', ':hochan-annotaions', ':hochan-compiler', ':hochan-core', ':hochan-ec'
